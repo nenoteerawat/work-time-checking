@@ -30,7 +30,8 @@
                 android:id="@+id/check_in"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
-                android:text="@string/check_in"
+                android:padding="100dp"
+                android:drawableBottom="@drawable/ic_alarm_on_black_24dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 tools:layout_editor_absoluteX="16dp" />
 
